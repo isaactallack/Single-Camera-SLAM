@@ -24,3 +24,5 @@ the algorithms that performed best throughout. The main achievements of this rep
 producing a fall detection classifier which performed 100% precision with minimal amounts of
 data in training/testing as well as an activity classifier that performed 99% precision classifying
 between five different activities.
+
+![Fingerprint](https://github.com/isaactallack/Single-Camera-SLAM/blob/main/images/fingerprint.png?raw=true)
