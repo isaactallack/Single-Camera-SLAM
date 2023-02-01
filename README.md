@@ -13,4 +13,4 @@ scenarios. The result is a high-quality video tracking algorithm and SLAM system
 well using simulated data. Reasonable extensions to the work are suggested to develop upon 
 the findings.
 
-![Fingerprint](https://github.com/isaactallack/Single-Camera-SLAM/blob/main/images/fingerprint.png?raw=true)
+![Model convergence](https://github.com/isaactallack/Single-Camera-SLAM/blob/main/images/convergence.png?raw=true)
